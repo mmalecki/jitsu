@@ -27,6 +27,7 @@
     "prompt": "0.1.x >=0.1.7",
     "request": "1.9.x",
     "require-analyzer": "0.3.x",
+    "rimraf": "1.0.x",
     "winston": "0.5.x",
     "semver": "1.0.x"
   },
